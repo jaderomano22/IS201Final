@@ -1,0 +1,26 @@
+
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(20, 20, 88);
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-color: rgb(241, 239, 239);
+}
+.header{
+    height:150px;
+    line-height: 50px;
+    background-color: rgb(146, 187, 213);
+    color: rgb(20, 20, 88);
+    font-size: large;
+
+}
+.footer{
+        height: 50px;
+        background-color: rgb(20, 20, 88);
+        color: white;
+        line-height: 50px;
+    }

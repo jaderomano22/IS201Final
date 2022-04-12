@@ -1,0 +1,19 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: lavender;
+}
+.subheading {
+    font-style: italic;
+}
+li{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+}
+h3{
+    color: darkslategrey;
+}
+body{
+    background-color: rgb(233, 229, 224);
+}
